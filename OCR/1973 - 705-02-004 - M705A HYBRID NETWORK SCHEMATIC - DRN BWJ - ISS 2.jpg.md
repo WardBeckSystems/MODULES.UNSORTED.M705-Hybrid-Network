@@ -35,7 +35,7 @@ Wiki page: [M705](../../../../PAGES/M705.md)
 - **Title block:** (352, 19)–(428, 29) mm: WBS WAAD-BeCK BysteMB LTD
 - **Wiring (first pass):** 32 connected wire groups from 228 runs; labelled ends: 255 mm → WBS, DA; 88 mm → 220/204; 84 mm → 220/20 [pi; 53 mm → 220/20 [pi, 20 / 20v; 46 mm → J06 €
 
-Every curve, box, word and wire group: [1973 - 705-02-004 - M705A HYBRID NETWORK SCHEMATIC - DRN BWJ - ISS 2 (traced).json](../SCHEMATICS/1973%20-%20705-02-004%20-%20M705A%20HYBRID%20NETWORK%20SCHEMATIC%20-%20DRN%20BWJ%20-%20ISS%202%20(traced).json) (the CAD file: `1973 - 705-02-004 - M705A HYBRID NETWORK SCHEMATIC - DRN BWJ - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 705-02-004 - M705A HYBRID NETWORK SCHEMATIC - DRN BWJ - ISS 2 (traced).json](../SCHEMATICS/1973%20-%20705-02-004%20-%20M705A%20HYBRID%20NETWORK%20SCHEMATIC%20-%20DRN%20BWJ%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1973 - 705-02-004 - M705A HYBRID NETWORK SCHEMATIC - DRN BWJ - ISS 2 (traced).dxf`).
 
 ## Full text
 
