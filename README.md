@@ -1,6 +1,6 @@
 # M705 Hybrid Network · Communication
 
-Ward-Beck Systems M705, 1973|6. Wiki page: [M705 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M705.html)
+Ward-Beck Systems M705, 1973|6. Wiki page: [M705 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M705-Hybrid-Network/)
 
 | Folder | What is in it | Files |
 |---|---|---|

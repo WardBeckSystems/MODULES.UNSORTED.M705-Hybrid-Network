@@ -1,5 +1,5 @@
 # 1973 - 705-02-004 - M705A HYBRID NETWORK SCHEMATIC - DRN BWJ - ISS 2.jpg
-Wiki page: [M705](../../../../PAGES/M705.md)
+Wiki page: [M705](../)
 
 
 - **Year:** 1973 (title block date)
